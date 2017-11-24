@@ -12,5 +12,13 @@
     "library"
   ],
   "author": "Joel Silva <joelcsilva@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhoow13/js-tdd-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jhoow13/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/Jhoow13/js-tdd-course#readme"
 }
